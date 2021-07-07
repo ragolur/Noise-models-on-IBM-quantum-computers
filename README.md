@@ -9,6 +9,8 @@ In the Jupyter notebooks one can run the experiments on a real quantum computer 
 
 This code was done for my Master's Thesis : "Noise and decoherence phenomena in quantum computers". I hope the code is well explained and useful for you, if you have any suggerence or improvement don't hesitate to contact me!
 
+Email: rafago1@hotmail.es
+
 
 Thank you for visiting this repository!
 
